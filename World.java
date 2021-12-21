@@ -7,4 +7,4 @@ public class HelloWorld {
 
 //C:\EA102_Workspace
 //javac HelloWorld.java
-//java HelloWorld Monday "Today is nice!"
+//java HelloWorld Monday "Today is nice! "
